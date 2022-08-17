@@ -1,4 +1,4 @@
 site_name: tesing docs
 theme:
   name: material
-  custom_dir: overrides
+  
